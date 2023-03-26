@@ -9,7 +9,7 @@
 <div id="about">
   <h3>About me</h3>
   <p><ul>
-    <b>Back-end Developer</b> with <b>5+ years of experience</b> using <b>Java</b>, <b>Spring</b>, <b>JPA</b>, <b>JSF</b>, <b>Hibernate</b> and other technologies.<br>
+    <b>Back-end Developer</b> with <b>6+ years of experience</b> using <b>Java</b>, <b>Spring</b>, <b>JPA</b>, <b>JSF</b>, <b>Hibernate</b> and other technologies.<br>
     Postgraduating student in <b>Program Analysis and Development</b>.<br>
     Doing a <b>MBA in Strategic Project Management and Agile Methodologies</b>.<br>
     Graduated in <b>Computer Engineering</b> at UFC (Federal University of Ceará).<br>
