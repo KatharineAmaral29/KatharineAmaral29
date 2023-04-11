@@ -37,14 +37,7 @@
 </div>
 
 <div id="tecnologies">
-  <h3>Tecnologies</h3>
-  <div align='center'>
-    <a href="https://github.com/KatharineAmaral29">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KatharineAmaral29&show_icons=true&include_all_commits=true&icon_color=fc0362&title_color=fc0362&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatharineAmaral29&layout=compact&langs_count=7&title_color=fc0362"/>
-    </a>
-  </div><br>
-  
+  <h3>Tecnologies</h3>  
   <div align='center' style="display: inline_block">
     <img align="center" height="30" width="40" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">    
     <img align="center" height="30" width="40" title="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
@@ -85,10 +78,16 @@
         </ul>
       <li><b>Experience:</b></li>
         <ul>
+          <li> <b>Desenvolvedora fullstack</b><br>
+               📆 janeiro/2023 - atualmente<br>
+               📍   Capgemini Portugal - remoto<br>
+               ️‍👩🏻‍💻 <b>Java, Spring, JSF, JPA, Hibernate, Oracle SQL e SVN.</b><br>
+          </li>
           <li> <b>Desenvolvedora backend</b><br>
-               📆 julho/2021 - atualmente<br>
+               📆 julho/2021 - dezembro/2022<br>
                📍   Lar Antônio de Pádua - Fortaleza/CE, Brazil<br>
                ️‍👩🏻‍💻 <b>Java, Spring, JSF, JPA, Hibernate, Microsserviços, Oracle SQL, GitHub e SVN.</b><br>
+          </li>
           <li> <b>Desenvolvedora fullstack</b><br>
                📆 janeiro/2017 - junho/2021<br>
                📍   PEFOCE - Fortaleza/CE, Brazil<br>
