@@ -9,10 +9,10 @@
 <div id="about">
   <h3>About me</h3>
   <p><ul>
-    <b>Back-end Developer</b> with <b>6+ years of experience</b> using <b>Java</b>, <b>Spring</b>, <b>JPA</b>, <b>JSF</b>, <b>Hibernate</b> and other technologies.<br>
-    Postgraduating student in <b>Program Analysis and Development</b>.<br>
-    Doing a <b>MBA in Strategic Project Management and Agile Methodologies</b>.<br>
-    Graduated in <b>Computer Engineering</b> at UFC (Federal University of Ceará).<br>
+    <b>Back-end Developer</b> with <b>7+ years of experience</b> using <b>Java</b>, <b>Spring</b>, <b>JPA</b>, <b>JSF</b>, <b>Hibernate</b> and other technologies.<br>
+    Specialized in <b>Program Analysis and Development</b>.<br>
+    <b>MBA in Strategic Project Management and Agile Methodologies</b>.<br>
+    Bachelor's degree in <b>Computer Engineering</b> at UFC (Federal University of Ceará).<br>
     I am a <b>dedicated</b>, <b>determined</b> and <b>dreamer</b> person.<br>
     I am <b>passionate</b> about <b>traveling</b>, <b>meeting people</b>, <b>new cultures</b> and <b>realities</b>.<br>
     <b>English</b> and <b>Spanish</b> at an <b>advanced level</b>. <b>Portuguese</b> at a <b>native level</b>.<br>
@@ -53,8 +53,6 @@
     <img align="center" height="30" width="40" title="jQuery" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
     <img align="center" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" title="Redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
-    <img align="center" height="30" width="40" title="Amazon AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   </div>
 </div>
 
@@ -64,11 +62,11 @@
       <li><b>Education:</b></li>
         <ul>
            <li><b>📖 Postgraduate Lato Sensu - Specialization, Program Analysis and Development</b><br>
-               📆 2022 - now<br>
+               📆 2022 - 2024<br>
                📍   Descomplica Faculdade Digital (Online) - Brazil<br>
            </li>
            <li><b>📖 Lato Sensu Postgraduate - MBA, Project Strategic Management and Agile Methods</b><br>
-               📆 2022 - now<br>
+               📆 2022 - 2024<br>
                📍   Descomplica Faculdade Digital (Online) - Brazil<br>
            </li>
            <li><b>📖 Graduate Computer Engeneering</b><br>
