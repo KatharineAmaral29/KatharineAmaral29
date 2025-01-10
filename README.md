@@ -9,7 +9,7 @@
 <div id="about">
   <h3>About me</h3>
   <p><ul>
-    <b>Back-end Developer</b> with <b>7+ years of experience</b> using <b>Java</b>, <b>Spring</b>, <b>JPA</b>, <b>JSF</b>, <b>Hibernate</b> and other technologies.<br>
+    <b>Back-end Developer</b> with <b>8+ years of experience</b> using <b>Java</b>, <b>Spring</b>, <b>JPA</b>, <b>JSF</b>, <b>Hibernate</b> and other technologies.<br>
     Specialized in <b>Program Analysis and Development</b>.<br>
     <b>MBA in Strategic Project Management and Agile Methodologies</b>.<br>
     Bachelor's degree in <b>Computer Engineering</b> at UFC (Federal University of Ceará).<br>
@@ -22,16 +22,13 @@
 
   <p align='center'>
     <a href="https://www.linkedin.com/in/katharine-amaral/">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://instagram.com/katharineamaral">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&color=fc0362&logo=instagram&logoColor=white" target="_blank"/>        
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:amaral.katharine@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=e60023&logo=gmail&logoColor=white" target="_blank"/>        
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=e60023&logo=gmail&logoColor=white"/>        
     </a>
     <a href="https://github.com/KatharineAmaral29">
-      <img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>        
+      <img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white"/>        
     </a>
   </p>
 </div>
